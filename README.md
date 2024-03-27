@@ -35,8 +35,6 @@ open test.jar
 
 ## 聯絡作者
 
-> ps. 這邊絕對不是業配，而是要適當提供一些方式讓觀看者知道你的聯絡方式，讓他們可以更方便的找到你。
-
 你可以透過以下方式與我聯絡
 
 - [Instagram](https://www.instagram.com/hung_mmi/)
