@@ -18,7 +18,7 @@
 
 ## 畫面
 
-![首頁](/Users/ethan/Desktop/學校/作業/java專題-圖書館系統/index_page.png)
+![首頁](https://github.com/a3240281370/library_system/blob/main/index_page.png)
 
 
 
